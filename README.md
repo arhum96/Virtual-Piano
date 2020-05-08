@@ -1,2 +1,2 @@
 # frontend
-My projects which mainly feature frontend technologies (HTML, CSS, JavaScript, Reactjs etc.)
+Some projects which showcase my skills in Frontend Dev
