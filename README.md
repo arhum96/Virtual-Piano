@@ -1,2 +1,2 @@
 # frontend
-Some projects which showcase my skills in Frontend Dev
+Projects which showcase my skills in Frontend Dev
